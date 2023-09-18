@@ -17,7 +17,7 @@ title: Publications
 ## &emsp; On 6d Seiberg-Witten Theories and Elliptic Integrable Systems
 
 
-1. **J. Chen**, Y. L$\ddot{u}$, and X. Wang, D-type Minimal Conformal Matter: Quantum Curves, Elliptic Garnier Systems, and the 5d Descendants, arXiv: 2304.04383;
+1. **J. Chen**, Y. L$\alpha$, and X. Wang, D-type Minimal Conformal Matter: Quantum Curves, Elliptic Garnier Systems, and the 5d Descendants, arXiv: 2304.04383;
    
 2. **J. Chen**, B. Haghighat, H.-C. Kim, K. Lee, M. Sperling and X. Wang, Elliptic quantum curves of 6d SO(N) theories, arXiv: 2110.13487, *JHEP* 03 (2022) 154;
    
