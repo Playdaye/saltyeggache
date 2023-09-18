@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-## &emsp;&nbsp;&nbsp;&nbsp; On Generalized Globaly Symmetries 
+## &emsp;&emsp; On Generalized Globaly Symmetries 
 
 
 1. **J. Chen**, B. Haghihat, and Q.-R. Wang, Para-fusion Category and Topological Defect Lines in $\mathbb{Z}_N$-parafermionic CFTs, arXiv: 2309.01914;
