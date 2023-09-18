@@ -4,9 +4,9 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 16th Sep 2023&nbsp;
-
-## On Generalized Globaly Symmetries
+## On Generalized Globaly Symmetries 
+<br>
+<br>
 
 1. **J. Chen**, B. Haghihat, and Q.-R. Wang, Para-fusion Category and Topological Defect Lines in $\mathbb{Z}_N$-parafermionic CFTs, arXiv: 2309.01914;
    
@@ -15,3 +15,19 @@ Lastest Update: 16th Sep 2023&nbsp;
 3. C.-M. Chang, **J. Chen**, and F. Xu, Topological defect lines in two dimensional fermionic CFTs, arXiv: 2208.02757.<br>
 
   <br>
+
+
+## On 6d SCFTs
+<br>
+<br>
+
+1. **J. Chen**, Y. L\"u, and X. Wang, D-type Minimal Conformal Matter: Quantum Curves, Elliptic Garnier Systems, and the 5d Descendants, arXiv: 2304.04383;
+   
+2. **J. Chen**, B. Haghighat, H.-C. Kim, K. Lee, M. Sperling and X. Wang, Elliptic quantum curves of 6d SO(N) theories, arXiv: 2110.13487, Published in: *JHEP* 03 (2022) 154;
+   
+3. **J. Chen**, B. Haghighat, H.-C. Kim, M. Sperling and X. Wang, E-string quantum curve, arXiv: 2103.16996, Published in: *Nucl.Phys.B* 973 (2021) 115602;
+
+4. **J. Chen**, B. Haghighat, H.-C. Kim, and M. Sperling, Elliptic quantum curves of class $\mathcal{S}_k$. <br>
+
+  <br>
+
