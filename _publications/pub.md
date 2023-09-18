@@ -14,14 +14,14 @@ title: Publications
 3. C.-M. Chang, **J. Chen**, and F. Xu, Topological defect lines in two dimensional fermionic CFTs, arXiv: 2208.02757.
 
 
-## \ On 6d SCFTs
+## \ On 6d Seiberg-Witten Theories and Elliptic Integrable Systems
 
 
 1. **J. Chen**, Y. L\"u, and X. Wang, D-type Minimal Conformal Matter: Quantum Curves, Elliptic Garnier Systems, and the 5d Descendants, arXiv: 2304.04383;
    
-2. **J. Chen**, B. Haghighat, H.-C. Kim, K. Lee, M. Sperling and X. Wang, Elliptic quantum curves of 6d SO(N) theories, arXiv: 2110.13487, Published in: *JHEP* 03 (2022) 154;
+2. **J. Chen**, B. Haghighat, H.-C. Kim, K. Lee, M. Sperling and X. Wang, Elliptic quantum curves of 6d SO(N) theories, arXiv: 2110.13487, *JHEP* 03 (2022) 154;
    
-3. **J. Chen**, B. Haghighat, H.-C. Kim, M. Sperling and X. Wang, E-string quantum curve, arXiv: 2103.16996, Published in: *Nucl.Phys.B* 973 (2021) 115602;
+3. **J. Chen**, B. Haghighat, H.-C. Kim, M. Sperling and X. Wang, E-string quantum curve, arXiv: 2103.16996, *Nucl.Phys.B* 973 (2021) 115602;
 
-4. **J. Chen**, B. Haghighat, H.-C. Kim, and M. Sperling, Elliptic quantum curves of class $\mathcal{S}_k$. 
+4. **J. Chen**, B. Haghighat, H.-C. Kim, and M. Sperling, Elliptic quantum curves of class $\mathcal{S}_k$, arXiv: 2008.05155, *JHEP* 03 (2021) 028. 
 
