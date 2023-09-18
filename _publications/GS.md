@@ -1,7 +1,7 @@
 ---
 title: "On Generalized Symmetries"
 collection: publications
-permalink: /publication/GS
+# permalink: /publication/GS
 excerpt: 'My papers on Generalized Symmetries'
 # date: 2023-09-19
 # venue: 'Journal 1'
