@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-## &emsp; On Generalized Globaly Symmetries 
+## &emsp;&nbsp; On Generalized Globaly Symmetries 
 
 
 1. **J. Chen**, B. Haghihat, and Q.-R. Wang, Para-fusion Category and Topological Defect Lines in $\mathbb{Z}_N$-parafermionic CFTs, arXiv: 2309.01914;
@@ -14,10 +14,10 @@ title: Publications
 3. C.-M. Chang, **J. Chen**, and F. Xu, Topological defect lines in two dimensional fermionic CFTs, arXiv: 2208.02757.
 
 
-## &emsp; On 6d Seiberg-Witten Theories and Elliptic Integrable Systems
+## &emsp;&nbsp; On 6d Seiberg-Witten Theories and Elliptic Integrable Systems
 
 
-1. **J. Chen**, Y. L$\ddot{\displaystyle{u}}$, and X. Wang, D-type Minimal Conformal Matter: Quantum Curves, Elliptic Garnier Systems, and the 5d Descendants, arXiv: 2304.04383;
+1. **J. Chen**, Y. L$\ddot{\rm u}$, and X. Wang, D-type Minimal Conformal Matter: Quantum Curves, Elliptic Garnier Systems, and the 5d Descendants, arXiv: 2304.04383;
    
 2. **J. Chen**, B. Haghighat, H.-C. Kim, K. Lee, M. Sperling and X. Wang, Elliptic quantum curves of 6d SO(N) theories, arXiv: 2110.13487, *JHEP* 03 (2022) 154;
    
