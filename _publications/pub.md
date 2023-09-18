@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-##      On Generalized Globaly Symmetries 
+## \ On Generalized Globaly Symmetries 
 
 
 1. **J. Chen**, B. Haghihat, and Q.-R. Wang, Para-fusion Category and Topological Defect Lines in $\mathbb{Z}_N$-parafermionic CFTs, arXiv: 2309.01914;
@@ -14,7 +14,7 @@ title: Publications
 3. C.-M. Chang, **J. Chen**, and F. Xu, Topological defect lines in two dimensional fermionic CFTs, arXiv: 2208.02757.
 
 
-##      On 6d SCFTs
+## \ On 6d SCFTs
 
 
 1. **J. Chen**, Y. L\"u, and X. Wang, D-type Minimal Conformal Matter: Quantum Curves, Elliptic Garnier Systems, and the 5d Descendants, arXiv: 2304.04383;
