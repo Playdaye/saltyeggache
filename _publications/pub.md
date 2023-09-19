@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-## &emsp;&nbsp; All my paper can be found at [InSpire](https://inspirehep.net/authors/1409401?ui-citation-summary=true)
+## &emsp;&nbsp; All my paper can be found at [iNSPIRE](https://inspirehep.net/authors/1409401?ui-citation-summary=true)
 
 
 ## &emsp;&nbsp; On Generalized Globaly Symmetries 
