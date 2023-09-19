@@ -8,7 +8,7 @@ date: 2023-9-11
 location: "Haiyun Campus, XMU"
 ---
 
-The course is aimed to introduce the concepts of Quantum Field Theory, including the motivations, physics ideas and mathematical structures of it. The prerequisites are Classical Mechanics, Quantum Mechanics, Statistical Mechanics, Electrodynamics, and some necessary mathematics including calculus, linear algebra and a bit knowledge on group theory. You can find the syllabus of the course [here](https://github.com/Playdaye/saltyeggache/tree/master/files/Syllabus.pdf)
+The course is aimed to introduce the concepts of Quantum Field Theory, including the motivations, physics ideas and mathematical structures of it. The prerequisites are Classical Mechanics, Quantum Mechanics, Statistical Mechanics, Electrodynamics, and some necessary mathematics including calculus, linear algebra and a bit knowledge on group theory. You can find the syllabus of the course [here](https://playdaye.github.io/saltyeggache/files/Syllabus.pdf)
 
 Lecture notes
 ======
