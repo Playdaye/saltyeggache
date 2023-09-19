@@ -4,7 +4,10 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-## &emsp;&nbsp;&nbsp; On Generalized Globaly Symmetries 
+## &emsp;&nbsp; All my paper can be found at [InSpire](https://inspirehep.net/authors/1409401?ui-citation-summary=true)
+
+
+## &emsp;&nbsp; On Generalized Globaly Symmetries 
 
 
 1. **J. Chen**, B. Haghihat, and Q.-R. Wang, Para-fusion Category and Topological Defect Lines in $\mathbb{Z}_N$-parafermionic CFTs, arXiv: 2309.01914;
@@ -14,7 +17,7 @@ title: Publications
 3. C.-M. Chang, **J. Chen**, and F. Xu, Topological defect lines in two dimensional fermionic CFTs, arXiv: 2208.02757.
 
 
-## &emsp;&nbsp;&nbsp; On 6d Seiberg-Witten Theories and Elliptic Integrable Systems
+## &emsp;&nbsp; On 6d Seiberg-Witten Theories and Elliptic Integrable Systems
 
 
 1. **J. Chen**, Y. L$\ddot{\rm u}$, and X. Wang, D-type Minimal Conformal Matter: Quantum Curves, Elliptic Garnier Systems, and the 5d Descendants, arXiv: 2304.04383;
@@ -26,7 +29,7 @@ title: Publications
 4. **J. Chen**, B. Haghighat, H.-C. Kim, and M. Sperling, Elliptic quantum curves of class $\mathcal{S}_k$, arXiv: 2008.05155, *JHEP* 03 (2021) 028.
 
 
-## &emsp;&nbsp;&nbsp; On 6d SCFTs and Their Descendants
+## &emsp;&nbsp; On 6d SCFTs and Their Descendants
 
 
 1. **J. Chen**, Z. Chen, W. Cui, and B. Haghighat, MSW-type compactifications of 6d $(1,0)$ SCFTs on 4-manifolds, arXiv: 2211.06943;
@@ -36,7 +39,7 @@ title: Publications
 3. **J. Chen**, B. Haghighat, S. Liu, and M. Sperling, 4d $N=1$ from 6d D-type $N=(1,0)$, arXiv: 1907.00536, *JHEP* 01 (2020) 152.
 
 
-## &emsp;&nbsp;&nbsp; On 2d QFTs
+## &emsp;&nbsp; On 2d QFTs
 
 
 1. **J. Chen**, C.-H. Sheu, M. Shifman, G. Tallarita, and A. Yung, Long Way to Ricci Flatness, arXiv: 2006.01188, *JHEP* 10 (2020) 059;
@@ -54,7 +57,7 @@ title: Publications
 7. **J. Chen**, Instanton Fermionic Zero Modes of Heterotic CP(1) Sigma Model, arXiv: 0912.0571.
 
 
-## &emsp;&nbsp;&nbsp; Uncollected
+## &emsp;&nbsp; Uncollected
 
 
 1. **J. Chen**, C. Ma, and C. Tian, A string-theoretical analog of non-maximal chaos in some Sachdev-Ye-Kitaev-like models, arXiv: 2305.02845.
