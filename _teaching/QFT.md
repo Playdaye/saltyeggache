@@ -14,6 +14,9 @@ Lecture notes
 ======
 [Week 1](https://playdaye.github.io/saltyeggache/files/Week1.pdf)
 
+[Week 2](https://playdaye.github.io/saltyeggache/files/Week2.pdf)
+
+
 
 
 
