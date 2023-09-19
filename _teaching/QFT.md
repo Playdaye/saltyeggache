@@ -12,11 +12,21 @@ The course is aimed to introduce the concepts of Quantum Field Theory, including
 
 Lecture notes
 ======
+[Week 1](https://playdaye.github.io/saltyeggache/files/Week 1.pdf)
 
 
 
 
 Homeworks
 ======
-[Homework 1](https://playdaye.github.io/saltyeggache/files/files/HW1.pdf)
+[Homework 1](https://playdaye.github.io/saltyeggache/files/HW1.pdf)
+
+
+
+Some Refs
+======
+D. Tong, Lectures on Quantum Field Theory
+A. Zee, Quantum Field Theory in a Nutshell
+M. Peskin and D. Schroeder, An Introduction to Quantum Field Theory
+S. Weinberg, Quantum Theory of Fields
 
