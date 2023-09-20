@@ -12,9 +12,7 @@ The course is aimed to introduce the concepts of Quantum Field Theory, including
 
 Lecture notes
 ======
-[Week 1](https://playdaye.github.io/saltyeggache/files/Week1.pdf)
-
-[Week 2](https://playdaye.github.io/saltyeggache/files/Week2.pdf)
+The lecture notes have been updated to week 2, and are packaged [here](https://pan.baidu.com/s/1Q1ira3IpwOUYlLHe9TUZbQ?pwd=dn5k)
 
 
 
