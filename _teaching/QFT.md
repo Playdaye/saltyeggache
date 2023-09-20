@@ -12,9 +12,9 @@ The course is aimed to introduce the concepts of Quantum Field Theory, including
 
 Lecture notes
 ======
-The lecture notes have been updated to week 2, and are packaged [here](https://pan.baidu.com/s/1Q1ira3IpwOUYlLHe9TUZbQ?pwd=dn5k)
+[Week 1](https://www.jianguoyun.com/p/DVWVWDsQj6P9CxjcyJoF)
 
-[week 1](https://www.jianguoyun.com/p/DVWVWDsQj6P9CxjcyJoF)
+[Week 2](https://www.jianguoyun.com/p/DZiw-bMQj6P9CxjryJoF)
 
 
 
