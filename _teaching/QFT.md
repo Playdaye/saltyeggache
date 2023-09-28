@@ -16,6 +16,8 @@ Lecture notes
 
 [Week 2](https://www.jianguoyun.com/p/DZiw-bMQj6P9CxjryJoF)
 
+[Week 3](https://www.jianguoyun.com/p/DWKoejcQj6P9CxjM95sFIAA)
+
 
 
 
