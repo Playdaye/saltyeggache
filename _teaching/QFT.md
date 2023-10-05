@@ -29,6 +29,16 @@ Homeworks
 
 
 
+
+Solutions
+======
+[Solution 1](https://playdaye.github.io/saltyeggache/files/Sol1.pdf)
+
+
+
+
+
+
 Some Refs
 ======
 D. Tong, Lectures on Quantum Field Theory
