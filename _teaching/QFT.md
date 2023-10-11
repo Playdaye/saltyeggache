@@ -30,7 +30,7 @@ Homeworks
 ======
 [Homework 1](https://playdaye.github.io/saltyeggache/files/HW1.pdf)
 
-[Homework 1](https://playdaye.github.io/saltyeggache/files/HW2.pdf)
+[Homework 2](https://playdaye.github.io/saltyeggache/files/HW2.pdf)
 
 
 
