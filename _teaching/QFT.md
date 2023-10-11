@@ -18,6 +18,9 @@ Lecture notes
 
 [Week 3](https://www.jianguoyun.com/p/DWKoejcQj6P9CxjM95sFIAA)
 
+[Week 5]([https://www.jianguoyun.com/p/DVYTUX8Qj6P9Cxibv50FIAA])
+
+
 
 
 
@@ -26,6 +29,9 @@ Lecture notes
 Homeworks
 ======
 [Homework 1](https://playdaye.github.io/saltyeggache/files/HW1.pdf)
+
+[Homework 1](https://playdaye.github.io/saltyeggache/files/HW2.pdf)
+
 
 
 
