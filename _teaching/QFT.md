@@ -20,6 +20,8 @@ Lecture notes
 
 [Week 5](https://www.jianguoyun.com/p/DVYTUX8Qj6P9Cxibv50FIAA)
 
+[Week 6](https://www.jianguoyun.com/p/DSIXvL8Qj6P9CxiL0p4FIAA)
+
 
 
 
