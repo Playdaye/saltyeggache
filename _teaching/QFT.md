@@ -22,6 +22,9 @@ Lecture notes
 
 [Week 6](https://www.jianguoyun.com/p/DSIXvL8Qj6P9CxiL0p4FIAA)
 
+[Week 7](https://www.jianguoyun.com/p/DVJhEZsQj6P9Cxi8nKAFIAA)
+
+
 
 
 
@@ -41,6 +44,8 @@ Homeworks
 Solutions
 ======
 [Solution 1](https://playdaye.github.io/saltyeggache/files/Sol1.pdf)
+
+[Solution 1](https://playdaye.github.io/saltyeggache/files/Sol2.pdf)
 
 
 
