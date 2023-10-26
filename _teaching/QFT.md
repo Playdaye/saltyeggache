@@ -37,6 +37,9 @@ Homeworks
 
 [Homework 2](https://playdaye.github.io/saltyeggache/files/HW2.pdf)
 
+[Homework 3](https://playdaye.github.io/saltyeggache/files/HW3.pdf)
+
+
 
 
 
@@ -45,7 +48,7 @@ Solutions
 ======
 [Solution 1](https://playdaye.github.io/saltyeggache/files/Sol1.pdf)
 
-[Solution 1](https://playdaye.github.io/saltyeggache/files/Sol2.pdf)
+[Solution 2](https://playdaye.github.io/saltyeggache/files/Sol2.pdf)
 
 
 
