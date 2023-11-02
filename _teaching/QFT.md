@@ -24,6 +24,9 @@ Lecture notes
 
 [Week 7](https://www.jianguoyun.com/p/DVJhEZsQj6P9Cxi8nKAFIAA)
 
+[Week 8](https://www.jianguoyun.com/p/DRNOTfkQj6P9CxiaxKEFIAA)
+
+
 
 
 
