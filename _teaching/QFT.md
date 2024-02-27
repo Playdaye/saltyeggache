@@ -1,5 +1,5 @@
 ---
-title: "Quantun Field Theory"
+title: "Quantun Field Theory (2023 Fall)"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2023-fall-QFT
