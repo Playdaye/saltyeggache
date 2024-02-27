@@ -42,6 +42,12 @@ Homeworks
 
 [Homework 3](https://playdaye.github.io/saltyeggache/files/HW3.pdf)
 
+[Homework 4](https://playdaye.github.io/saltyeggache/files/HW4.pdf)
+
+[Homework 5](https://playdaye.github.io/saltyeggache/files/HW5.pdf)
+
+
+
 
 
 
