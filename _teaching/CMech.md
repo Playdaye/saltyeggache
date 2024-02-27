@@ -56,11 +56,6 @@ Solutions
 
 Some Refs
 ======
-D. Tong, Lectures on Quantum Field Theory
-
-A. Zee, Quantum Field Theory in a Nutshell
-
-M. Peskin and D. Schroeder, An Introduction to Quantum Field Theory
-
-S. Weinberg, Quantum Theory of Fields
+H. Goldstein, Classical Mechanics
+D. Tong, Lectures on Classical Dynamics
 
