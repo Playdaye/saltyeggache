@@ -55,7 +55,7 @@ Homeworks
 
 Solutions
 ======
-[Solution 1](https://playdaye.github.io/saltyeggache/files/Sol1.pdf)
+<!--[Solution 1](https://playdaye.github.io/saltyeggache/files/Sol1.pdf)-->
 
 [Solution 2](https://playdaye.github.io/saltyeggache/files/Sol2.pdf)
 
