@@ -1,9 +1,9 @@
 ---
 title: "Classical Mechanics (2024 Spring)"
 collection: teaching
-type: "Graduate Course"
-permalink: /teaching/2023-fall-QFT
-venue: "Haiyun Teaching Bd. 201"
+type: "Undergraduate Course"
+permalink: /teaching/2024-Spring-CMech
+venue: "Haiyun Teaching Bd. 202"
 date: 2024-2-26
 location: "Haiyun Campus, XMU"
 ---
