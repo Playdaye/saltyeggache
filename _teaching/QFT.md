@@ -26,6 +26,12 @@ Lecture notes
 
 [Week 8](https://www.jianguoyun.com/p/DRNOTfkQj6P9CxiaxKEFIAA)
 
+[Week 9](https://www.jianguoyun.com/p/DWJhIlYQj6P9Cxj_5MMFIAA)
+
+
+
+
+
 
 
 
@@ -57,7 +63,7 @@ Solutions
 ======
 <!--[Solution 1](https://playdaye.github.io/saltyeggache/files/Sol1.pdf)-->
 
-[Solution 2](https://playdaye.github.io/saltyeggache/files/Sol2.pdf)
+<!--[Solution 2](https://playdaye.github.io/saltyeggache/files/Sol2.pdf)-->
 
 
 
